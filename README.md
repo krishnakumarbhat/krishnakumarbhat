@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm krishnakumar</h1>
 <h3 align="center">a passionate computer networking enthusiast, machine learning practitioner, and web development enthusiast</h3>
 
