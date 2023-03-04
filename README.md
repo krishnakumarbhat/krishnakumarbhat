@@ -1,20 +1,21 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi!, I'm krishnakumar</h1>
+<h1 align="center">Hi 👋, I'm krishnakumar</h1>
 <h3 align="center">a passionate computer networking enthusiast, machine learning practitioner, and web development enthusiast</h3>
-
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/YDW8TrsTmu1vZp8aCUh6aS1vGZjyaTsbcMic3eYXIN4/rs:fit:444:250:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZ2Z5Y2F0LmNv/bS9NaW5pYXR1cmVE/ZXBlbmRlbnRDb2It/bWF4LTFtYi5naWY.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnakumarbhat&label=Profile%20views&color=0e75b6&style=flat" alt="krishnakumarbhat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnakumarbhat" alt="krishnakumarbhat" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on [smartstock](https://github.com/krishnakumarbhat/smartstock)
+
+- 👯 I’m looking to collaborate on [smartstock](https://github.com/krishnakumarbhat/smartstock)
+
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/YDW8TrsTmu1vZp8aCUh6aS1vGZjyaTsbcMic3eYXIN4/rs:fit:444:250:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZ2Z5Y2F0LmNv/bS9NaW5pYXR1cmVE/ZXBlbmRlbnRDb2It/bWF4LTFtYi5naWY.gif">
 <p align="left">
-<a href="https://linkedin.com/in/krishnakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnakumar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/krishnakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="krishnakumar" height="30" width="40" /></a>
-<a href="https://kaggle.com/krishnakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krishnakumar" height="30" width="40" /></a>
-<a href="https://discord.gg/krishnakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="krishnakumar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@kkb4573/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@kkb4573/videos" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/bhatkrishnakumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/bhatkrishnakumar/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnakumarbhat&show_icons=true&locale=en" alt="krishnakumarbhat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnakumarbhat&" alt="krishnakumarbhat" /></p>
-
