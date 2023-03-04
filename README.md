@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm krishnakumar</h1>
 <h3 align="center">a passionate computer networking enthusiast, machine learning practitioner, and web development enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/YDW8TrsTmu1vZp8aCUh6aS1vGZjyaTsbcMic3eYXIN4/rs:fit:444:250:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZ2Z5Y2F0LmNv/bS9NaW5pYXR1cmVE/ZXBlbmRlbnRDb2It/bWF4LTFtYi5naWY.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnakumarbhat&label=Profile%20views&color=0e75b6&style=flat" alt="krishnakumarbhat" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnakumarbhat" alt="krishnakumarbhat" /></a> </p>
 
