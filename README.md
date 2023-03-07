@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm krishnakumar Bhat</h1>
-<h3 align="center">a passionate computer networking enthusiast, machine learning practitioner, and web development enthusiast</h3>
+<h3 align="center">a passionate computer networking enthusiast, machine learning practitioner, and web developer</h3>
 
 
 
