@@ -41,7 +41,7 @@
 
 
 
-<img align="right" width="75" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
+<img align="right" width="395" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
 <div style="clear:both;"></div>
 
 
