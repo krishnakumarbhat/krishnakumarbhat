@@ -63,7 +63,8 @@
       </tr>
     </thead>
     <tbody>
-
+	</ul>	
+</details>
 
 <div align="center"> 
 <i>Random dev joke for you!</i></br></br>
