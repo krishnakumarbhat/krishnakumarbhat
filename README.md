@@ -15,6 +15,8 @@
 ### Glad to see you here!
 
 
+- 🔭 I’m currently working on and looking to collaborate on [SecureBoot](https://github.com/krishnakumarbhat/SecureBoot)
+
 
 <p>
 I am a dedicated Machine Learning enthusiast with a solid foundation in Machine Learning. My journey has taken me into the academic realm, where I've contributed to the field with published papers, focusing particularly on LSTM.
@@ -56,8 +58,6 @@ My overarching goal is to continually evolve in the fields of Machine Learning a
 
 
 
-
-- 🔭 I’m currently working on and looking to collaborate on [SecureBoot](https://github.com/krishnakumarbhat/SecureBoot)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
