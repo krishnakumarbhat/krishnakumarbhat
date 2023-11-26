@@ -14,6 +14,9 @@
 
 ### Glad to see you here!
 
+<img align="right" width="395" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
+
+
 <p>
 I am a dedicated Machine Learning enthusiast with a solid foundation in Machine Learning. My journey has taken me into the academic realm, where I've contributed to the field with published papers, focusing particularly on LSTM.
 
@@ -52,8 +55,6 @@ My overarching goal is to continually evolve in the fields of Machine Learning a
 
 
 
-<img align="right" width="395" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
-<div style="clear:both;"></div>
 
 
 - 🔭 I’m currently working on and looking to collaborate on [SecureBoot](https://github.com/krishnakumarbhat/SecureBoot)
