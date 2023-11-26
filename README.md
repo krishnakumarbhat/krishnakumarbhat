@@ -1,6 +1,25 @@
-## Hi 👋, I'm krishna(https://twitter.com)  and you've reached my Dev space on the WWW :) 
+## Hi 👋, I'm [krishna !](https://twitter.com)  and you've reached my Dev space on the WWW :) 
 <h3 align="center">Passionate about Data Science, ML, and AI, transforming data into meaningful solutions </h3>
 
+
+<div align="center"> 
+<i>Random dev joke for you!</i></br></br>
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
+</div>
+
+###  Watch my Contribution Graph get eaten by the snake 🥳
+![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
+
+
+  </br>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  
+ </br>
+
+ 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 
 
