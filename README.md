@@ -1,3 +1,13 @@
+<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ - Use this to Create your own Custom Github readme -->
+
+![linkedin header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Machine+Learing%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Open+source+%F0%9F%92%98;LeetCoder)](https://git.io/typing-svg)
+
+<img align="right" alt="cheemsCoder" src = "https://user-images.githubusercontent.com/73928744/141654531-109887e4-1142-474e-ac70-8540f7a24f70.png"></p>
+
+
+
 ## Hi 👋, I'm [krishna !](https://twitter.com)  and you've reached my Dev space on the WWW :) 
 <h3 align="center">Passionate about Data Science, ML, and AI, transforming data into meaningful solutions </h3>
 
