@@ -14,7 +14,7 @@
 
 ### Glad to see you here!
 
-
+<p>
 I am a dedicated Machine Learning enthusiast with a solid foundation in Django Machine Learning. My journey has taken me into the academic realm, where I've contributed to the field with published papers, focusing particularly on LSTM.
 
 In the open-source community, I actively participated in Hacktoberfest, channeling my efforts into projects centered around Convolutional Neural Networks (CNN). As a proud participant in Google Summer of Code '23, I've honed my skills in Git, Linux, Flask, Docker, Computer Networking, ML, Python, C, and JavaScript.
@@ -26,7 +26,7 @@ Certified in CCNA and Ethical Hacking, I've gained practical experience through 
 My overarching goal is to continually evolve in the fields of Machine Learning and Data Science. I aspire to make significant contributions to the ever-growing tech landscape, driven by my passion for innovation and a commitment to staying at the forefront of emerging technologies.
 
 
-
+</p>
 
 
 
