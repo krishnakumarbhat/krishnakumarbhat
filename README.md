@@ -14,7 +14,6 @@
 
 ### Glad to see you here!
 
-<img align="right" alt="cheemsCoder" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
 
 
 <p>
@@ -31,6 +30,7 @@ My overarching goal is to continually evolve in the fields of Machine Learning a
 
 </p>
 
+<img align="right" alt="cheemsCoder" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
 
 
 ### Profile Views
