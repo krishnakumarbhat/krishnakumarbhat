@@ -2,6 +2,23 @@
 <h3 align="center">Passionate about Data Science, ML, and AI, transforming data into meaningful solutions </h3>
 
 
+### Glad to see you here!
+
+
+
+
+
+
+### Profile Views
+
+![](https://count.getloli.com/get/@akshaynarisetti.github.readme)
+</br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnakumarbhat" alt="krishnakumarbhat" /></a> </p>
 
@@ -12,6 +29,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/YDW8TrsTmu1vZp8aCUh6aS1vGZjyaTsbcMic3eYXIN4/rs:fit:444:250:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZ2Z5Y2F0LmNv/bS9NaW5pYXR1cmVE/ZXBlbmRlbnRDb2It/bWF4LTFtYi5naWY.gif">
 
+
+
+<img align="right" width="375" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
+
+
+
 - 🔭 I’m currently working on and looking to collaborate on [SecureBoot](https://github.com/krishnakumarbhat/SecureBoot)
 
 <h3 align="left">Connect with me:</h3>
@@ -21,10 +44,6 @@
 </p>
 
 
-
-
-
-![image](https://github.com/krishnakumarbhat/krishnakumarbhat/assets/79183768/7b99a8bc-4288-434c-bdce-01ccdb24b9c4)
 
 
 
