@@ -15,6 +15,17 @@
 ### Glad to see you here!
 
 
+I am a dedicated Machine Learning enthusiast with a solid foundation in Django Machine Learning. My journey has taken me into the academic realm, where I've contributed to the field with published papers, focusing particularly on LSTM.
+
+In the open-source community, I actively participated in Hacktoberfest, channeling my efforts into projects centered around Convolutional Neural Networks (CNN). As a proud participant in Google Summer of Code '23, I've honed my skills in Git, Linux, Flask, Docker, Computer Networking, ML, Python, C, and JavaScript.
+
+Leading the Technical Team, I organized workshops covering a spectrum of topics, including Python, Robotics, SQL, and IoT. This experience showcases my versatility not only in technology but also in leadership.
+
+Certified in CCNA and Ethical Hacking, I've gained practical experience through internships at Nokia and iNeuron. Currently, I serve as an MLOps Architecture Engineer at Aptiv, where I'm actively engaged in developing transformer models.
+
+My overarching goal is to continually evolve in the fields of Machine Learning and Data Science. I aspire to make significant contributions to the ever-growing tech landscape, driven by my passion for innovation and a commitment to staying at the forefront of emerging technologies.
+
+
 
 
 
