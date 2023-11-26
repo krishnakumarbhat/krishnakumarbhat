@@ -15,9 +15,9 @@
 ### Glad to see you here!
 
 <p>
-I am a dedicated Machine Learning enthusiast with a solid foundation in Django Machine Learning. My journey has taken me into the academic realm, where I've contributed to the field with published papers, focusing particularly on LSTM.
+I am a dedicated Machine Learning enthusiast with a solid foundation in Machine Learning. My journey has taken me into the academic realm, where I've contributed to the field with published papers, focusing particularly on LSTM.
 
-In the open-source community, I actively participated in Hacktoberfest, channeling my efforts into projects centered around Convolutional Neural Networks (CNN). As a proud participant in Google Summer of Code '23, I've honed my skills in Git, Linux, Flask, Docker, Computer Networking, ML, Python, C, and JavaScript.
+In the open-source community, I actively participated in Hacktoberfest, channeling my efforts into projects centered around Convolutional Neural Networks (CNN). As a proud participant in Google Summer of Code '23, I've honed my skills in Git, Linux, Flask, Docker, Computer Networking, ML, Python, C, Django and JavaScript.
 
 Leading the Technical Team, I organized workshops covering a spectrum of topics, including Python, Robotics, SQL, and IoT. This experience showcases my versatility not only in technology but also in leadership.
 
