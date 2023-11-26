@@ -14,7 +14,7 @@
 
 ### Glad to see you here!
 
-<img align="right" width="395" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
+<img align="right" alt="cheemsCoder" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
 
 
 <p>
