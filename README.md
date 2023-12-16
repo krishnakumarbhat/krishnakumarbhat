@@ -15,7 +15,7 @@
 ### Glad to see you here!
 
 
-- 🔭 I’m currently working on and looking to collaborate on [AIFin-Hub]([https://github.com/krishnakumarbhat/](https://github.com/krishnakumarbhat/AIFin-Hub))
+- 🔭 I’m currently working on and looking to collaborate on [!AIFin-Hub]([https://github.com/krishnakumarbhat/AIFin-Hub](https://github.com/krishnakumarbhat/AIFin-Hub))
 
 
 <p>
