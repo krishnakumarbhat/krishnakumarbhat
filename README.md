@@ -9,6 +9,7 @@
 
 
 ## Hi 👋, I'm [krishna !](https://twitter.com)  and you've reached my Dev space on the WWW :) 
+I am just a coder for fun.
 <h3 align="center">Passionate about Data Science, ML, and AI, transforming data into meaningful solutions </h3>
 
 
