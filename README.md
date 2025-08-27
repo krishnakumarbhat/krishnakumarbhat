@@ -24,8 +24,6 @@ Led Technical Team, organizing workshops on Python, Robotics, SQL, and IoT, show
 Continually evolving in Machine Learning and Data Science, aspiring to make impactful contributions to the tech landscape. Passionate about innovation and staying at the forefront of emerging technologies.
 </p>
 
-<img align="right" alt="cheemsCoder" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
-
 
 ### Profile Views
 
@@ -37,6 +35,8 @@ Continually evolving in Machine Learning and Data Science, aspiring to make impa
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
 
 
 <h3 align="left">Connect with me:</h3>
