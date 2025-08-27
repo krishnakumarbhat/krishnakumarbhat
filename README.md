@@ -38,15 +38,10 @@ Continually evolving in Machine Learning and Data Science, aspiring to make impa
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnakumarbhat" alt="krishnakumarbhat" /></a> </p>
-
 
 <div align="center">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/YDW8TrsTmu1vZp8aCUh6aS1vGZjyaTsbcMic3eYXIN4/rs:fit:444:250:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZ2Z5Y2F0LmNv/bS9NaW5pYXR1cmVE/ZXBlbmRlbnRDb2It/bWF4LTFtYi5naWY.gif">
-
 
 
 
