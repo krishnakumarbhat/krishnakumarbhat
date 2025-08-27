@@ -32,13 +32,6 @@ Continually evolving in Machine Learning and Data Science, aspiring to make impa
 ![prev count was around 80k](https://count.getloli.com/get/@akshaynarisetti.github.readme)
 </br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
-
-
-
-
-
 <div align="center">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
