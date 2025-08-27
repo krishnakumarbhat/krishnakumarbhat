@@ -4,11 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Machine+Learing%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Open+source+%F0%9F%92%98;LeetCoder)](https://git.io/typing-svg)
 
-<img align="right" alt="cheemsCoder" src = "https://user-images.githubusercontent.com/73928744/141654531-109887e4-1142-474e-ac70-8540f7a24f70.png"></p>
 
-
-
-## Hi 👋, I'm [krishna !](https://twitter.com)  and you've reached my Dev space on the WWW :) 
+## Hi 👋, I'm [krishna !](https://x.com/krishnak590856)  and you've reached my Dev space on the WWW :) 
 I am just a coder for fun.
 <h3 align="center">Passionate about Data Science, ML, and AI, transforming data into meaningful solutions </h3>
 
@@ -32,7 +29,7 @@ Continually evolving in Machine Learning and Data Science, aspiring to make impa
 
 ### Profile Views
 
-![](https://count.getloli.com/get/@akshaynarisetti.github.readme)
+![prev count was around 80k](https://count.getloli.com/get/@akshaynarisetti.github.readme)
 </br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -56,12 +53,12 @@ Continually evolving in Machine Learning and Data Science, aspiring to make impa
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/@kkb4573/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@kkb4573/videos" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/bhatkrishnakumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/bhatkrishnakumar/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kkb4573/videos" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bhatkrishnakumar/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://twitter.com" target="_blank"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://linkedin.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
-
-
-
 
 
 
@@ -87,18 +84,11 @@ Continually evolving in Machine Learning and Data Science, aspiring to make impa
 
 
 <div align="center"> 
-<i>Random dev joke for you!</i></br></br>
+<i>Random dev joke!</i></br></br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
 
-###  Watch my Contribution Graph get eaten by the snake 🥳
+
 ![j8wo9f1mou6g5469671h](https://github.com/krishnakumarbhat/krishnakumarbhat/assets/79183768/43ee27b0-9f42-4fc3-a9a0-89da88f98f08)
 
 
-
-  </br>
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-  
- </br>
