@@ -1,10 +1,29 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png" alt="Header Image" />
+  <br/>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Scientist+%F0%9F%A4%96;Systems+Engineer+%E2%9A%99%EF%B8%8F;Core+ML+%26+C%2B%2B+%F0%9F%92%BB;No+Wrappers.+Pure+Math+%E2%9C%A8" alt="Typing SVG" />
+  </a>
   <h2>Building foundational systems. No wrappers. Pure math & engineering.</h2>
 </div>
 
 ## Hi 👋, I'm [Krishna!](https://x.com/krishnak590856) and welcome to my dev space.
 
 I build machine learning algorithms, compiler infrastructure, and high-performance systems from the ground up. My engineering philosophy is simple: understand the stack from the hardware execution to the mathematical primitives. No bloated abstractions. No black boxes. Just optimal Time/Space complexity, rigorous system design, and clean C++/Python.
+
+<div align="left">
+  <img src="https://count.getloli.com/get/@krishnakumarbhat.github.readme" alt="Profile Views" />
+</div>
+<br/>
+
+<div align="left">
+  <a href="https://twitter.com/krishnak590856" target="_blank"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/krishnakumarbb" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/bhatkrishnakumar" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+</div>
+
+---
 
 ### 🔭 Infrastructure & Tooling (Looking for Contributors)
 
@@ -19,11 +38,28 @@ I build machine learning algorithms, compiler infrastructure, and high-performan
 * **[chess_reinforce](https://github.com/krishnakumarbhat/chess_reinforce):** AlphaZero-inspired Chess AI built with a custom Transformer encoder and Policy Gradient self-play.
 * **[linux_sleep_driver](https://github.com/krishnakumarbhat/linux_sleep_driver):** System-level Bash utility for advanced suspend-then-hibernate power management directly interfacing with ACPID.
 
+---
+
 ### ⚙️ The Stack
 
-* **Languages:** C, C++, Python, Rust
+* **Languages:** C, C++, Python, Rust, Bash
 * **ML & Compute:** PyTorch, TensorFlow, OpenCV, Scikit-Learn (Open Source Contributor)
 * **Architecture:** Hardware-Software Optimization, SIMD Abstractions, Multi-Agent Orchestration, Kernel/Driver level configurations
+
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</p>
 
 <br/>
 
@@ -32,19 +68,8 @@ I build machine learning algorithms, compiler infrastructure, and high-performan
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakumarbhat&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <a href="https://github.com/krishnakumarbhat"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/bhatkrishnakumar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
-
-
-![linkedin header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Scientist+%F0%9F%A4%96;Systems+Engineer+%E2%9A%99%EF%B8%8F;Core+ML+%26+C%2B%2B+%F0%9F%92%BB;No+Wrappers.+Pure+Math+%E2%9C%A8)](https://git.io/typing-svg)
-
-@@ -76,7 +85,4 @@ Continually evolving in Machine Learning and Data Science, aspiring to make impa
-<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
-</div>
-
-
-![j8wo9f1mou6g5469671h](https://github.com/krishnakumarbhat/krishnakumarbhat/assets/79183768/43ee27b0-9f42-4fc3-a9a0-89da88f98f08)
