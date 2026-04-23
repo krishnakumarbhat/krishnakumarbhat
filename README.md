@@ -53,8 +53,6 @@ I build machine learning algorithms, compiler infrastructure, and high-performan
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28" height="28"/></a>&nbsp;
   <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="28" height="28"/></a>&nbsp;
   <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="28" height="28"/></a>&nbsp;
-  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="28" height="28"/></a>&nbsp;
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="28" height="28"/></a>&nbsp;
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="28" height="28"/></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28" height="28"/></a>&nbsp;
 </div>
